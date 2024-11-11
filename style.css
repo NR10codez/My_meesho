@@ -1,0 +1,461 @@
+          /* first section */
+.card{
+    position: relative;
+    width: 1300px;
+    padding: 20px;
+    
+}
+
+.card1{
+    width: 150px;
+    
+}
+.card2{
+    position: absolute;
+    width: 400px;
+    height: 45px;
+    right: 700px;
+    border-style: groove;
+    border-radius: 5px;
+    
+}
+
+.cardinput{
+    position: absolute;
+    width: 350px;
+    padding: 5px;
+    top: 2px;
+    height: 35px;
+    outline: none;
+    border: none;
+}
+.card3{
+    position: absolute;
+    right: 650px;
+}
+.card4{
+    position: absolute;
+    right: 580px;
+    bottom: 20px;
+}
+.card5{
+    position: absolute;
+   left: 650px;
+   bottom: 1px;
+}
+.vl{
+    position: absolute;
+    border-left: 1px solid rgb(4, 4, 4);
+    height: 35px;
+    padding: 5px;
+    right: 540px;
+}
+.card6{
+    position: absolute;
+    right: 450px;
+}
+.card7{
+    position: absolute;
+    right: 460px;
+    bottom: -2px;
+}
+.v2{
+    position: absolute;
+    border-left: 1px solid rgb(4, 4, 4);
+    height: 35px;
+    padding: 5px;
+    right: 400px;
+}
+.card8{
+    position: absolute;
+    right: 300px;
+}
+.v3{
+    position: absolute;
+    border-left: 1px solid rgb(4, 4, 4);
+    height: 35px;
+    padding: 5px;
+    right: 260px;
+}
+.card9{
+    position: absolute;
+    right: 200px;
+    top: 6px;
+}
+.card10{
+    position: absolute;
+    right: 190px;
+    top: 38px;
+}
+.card11{
+    position: absolute;
+    right: 120px;
+    top: 10px;
+}
+.card12{
+    position: absolute;
+    right: 115px;
+    top: 38px;
+}
+
+/* Second section */
+
+.second1 > i{
+    padding: 18px;
+    
+}
+
+/* Template First */
+
+.temcontainer{
+        display: flex;
+}
+    
+.containerone{
+      padding: 80px;
+        
+}
+.nextcontainer{
+        padding-top: 20px;
+}
+    
+.delivery_li{
+        display: inline-block;
+        padding: 9px;
+        
+}
+.v24{
+        display: inline-block;
+        border-left: 1px solid rgb(7, 7, 7);
+        height: 23px;
+        
+}
+    
+.button_div{
+        padding: 8px;
+        background-color: purple;
+        color: aliceblue;
+        height: 40px;
+        width: 280px;
+        border-radius: 3px;
+}
+.logscontainer{
+        padding: 20px;
+}
+
+/* Template Second */
+.tem_img1{
+    position: relative;
+    padding: 30px;
+    width: 1250px;
+}
+
+.sub_temimg1{
+    position: absolute;
+    left: 60px;
+    top: 750px;
+    width: 400px;
+    height: 400px;
+}
+.sub_temimg2{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+    width: 300px;
+    height: 300px;
+}
+.sub_temimg3{
+    position: absolute;
+    top: 850px;
+    left: 850px;
+    width: 300px;
+    height: 300px;
+}
+
+
+.tem_img2{
+    position: relative;
+    padding: 30px;
+    width: 1250px;
+
+}
+.view_img{
+    position: absolute;
+    left: 150px;
+    top: 1520px;
+
+}
+.next-sub_img1{
+    position: absolute;
+    left: 440px;
+    top: 1380px;
+}
+.next-sub_img2{
+    position: absolute;
+    left: 700px;
+    top: 1380px;
+}
+.next-sub_img3{
+    position: absolute;
+    left: 950px;
+    top: 1380px;
+}
+.text_img1{
+    position: absolute;
+    top: 1740px;
+    left: 470px;
+
+}
+.text_img2{
+    position: absolute;
+    top: 1740px;
+    left: 720px;
+
+}
+.text_img3{
+    position: absolute;
+    top: 1740px;
+    left: 980px;
+
+}
+.view_img1{
+    position: absolute;
+    top: 2165px;
+    left: 150px;
+}
+.next1-sub_img1{
+    position: absolute;
+    top: 2050px;
+    left: 420px;
+}
+.next1-sub_img2{
+    position: absolute;
+    top: 2050px;
+    left: 660px;
+}
+.next1-sub_img3{
+    position: absolute;
+    top: 2050px;
+    left: 900px;
+}
+.text1_img1{
+    position: absolute;
+    top:2400px;
+    left: 440px;
+}
+.text1_img2{
+    position: absolute;
+    top: 2400px;
+    left: 680px;
+}
+.text1_img3{
+    position: absolute;
+    top: 2400px;
+    left: 930px;
+}
+
+/* Banner image one */
+
+.banneraligen{
+    position: relative;
+    padding: 20px;
+
+}
+.containerbanner{
+    width: 1200px;
+    height: 500px;
+}
+.text1{
+    position: absolute;
+    right: 36px;
+    top: 60px;
+    font-size: 30px;
+    color: rgb(41, 130, 245);
+}
+.text2{
+    position: absolute;
+    right: 36px;
+    font-size: 48px;
+    top: 100px;
+    color: purple;
+    font-weight: bold;
+}
+.text3{
+    position: absolute;
+    right: 36px;
+    font-size: 48px;
+    top: 152px;
+    color: purple;
+    font-weight: bold;
+}
+.playstors2{
+    position: absolute;
+    width: 200px;
+    right: 36px;
+    top: 250px;
+}
+.playstors1{
+    position: absolute;
+    width: 200px;
+    top:250px;
+    right: 250px;
+}
+
+/* Banner image second */
+
+.sbanner{
+    
+    position: relative;
+ }
+ .bannSupply{
+    width: 1250px;
+    padding: 15px;
+ }
+ .supp1{
+    position: absolute;
+    color: rgb(251, 253, 255);
+    bottom: 280px;
+    right: 680px;
+    font-size: 40px;
+ }
+ .supp2{
+    position: absolute;
+    color: aliceblue;
+    bottom: 250px;
+    right: 720px;
+    font-size: 19px;
+ }
+ .supp3{
+    
+    position: absolute;
+    bottom: 200px;
+    right: 1015px;
+    font-size: 16px;
+    color: rgb(243, 243, 244);
+
+
+}
+.supp4{
+    position: absolute;
+    bottom: 200px;
+    font-size: 16px;
+    right: 800px;
+    color: rgb(243, 243, 244);
+
+}
+.supp5{
+    position: absolute;
+    bottom: 200px;
+    font-size: 16px;
+    right: 600px;
+    color: rgb(243, 243, 244);
+
+}
+.v3{
+    position: absolute;
+    bottom: 200px;
+    right: 980px;
+    display: inline-block;
+    border-left: 1px solid rgb(244, 244, 246);
+    height: 20px;
+}
+.v4{
+    position: absolute;
+    bottom: 200px;
+    right: 770px;
+    display: inline-block;
+    border-left: 1px solid rgb(244, 244, 246);
+    height: 20px;
+
+}
+.signcontainer{
+    position: absolute;
+    display: inline-block;
+    background-color: rgb(243, 249, 249);
+    bottom: 50px;
+    right: 1050px;
+    width: 160px;
+    height: 70px;
+    border-radius: 5px;
+    
+}
+
+/* Footer First */
+
+.footer1{
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+}
+
+.twoimg{
+    
+    
+    width: 200px;
+
+}
+.cardone{
+    position: absolute;
+    right: 650px;
+}
+.cardtwo{
+    position: absolute;
+    right: 450px;
+}
+.cardthree{
+    position: absolute;
+    right: 280px;
+}
+.appimg{
+    padding: 10px;
+}
+.lastdiv{
+    position: absolute;
+    right: 50px;
+}
+.adddiv{
+    font-size: 12px;
+    height: 10px;
+
+}
+
+ /* Last Footer edit */
+
+ .ffootlink{
+    
+    width: 800px;
+    height: 60px;
+}
+         
+.footlink{
+    
+    width: 500px;
+    text-decoration: none;
+    font-size: 30px;
+    color: purple;
+    
+}
+
+
+.foots3{
+    text-decoration: none;
+    color: purple;
+    font-size: 20px;
+    
+    
+}
+
+.foots4{
+   
+    top: 10px;
+    color: purple;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
